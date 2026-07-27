@@ -1,0 +1,8 @@
+name = input("What is your name?: ")
+country = input("Where are you from?: ")
+goal = input("Your career goal: ")
+
+print("My name is: ", name)
+print("I from:", country)
+print("My gaol is: ", goal)
+
