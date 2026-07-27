@@ -55,3 +55,15 @@ Today I learned:
   ## Goal
   Continue building a strong Python foundation on the path to becoming an AI Engineer.
   
+# English vocabulary
+# Learn these 10 words:
+operator - mathematical symbol
+condition - a rule to check 
+compare - check two values 
+equal - the same
+greater - bigger 
+smaller - less 
+boolean - true or false value 
+decision - a choice 
+password - secret word 
+result - output
