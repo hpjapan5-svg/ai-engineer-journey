@@ -37,7 +37,7 @@ Today I learned:
 2. **comparison.py**
    - Checked whether a user is an adult.
 3. **age_checker.py**
-   - Performed basic mathematical calculations based on user input.]
+   - Performed basic mathematical calculations based on user input.
 4. **smart_calculator.py**
    - Performed basic mathematical calculations based on user input. 
 5. **password_checker.py**
