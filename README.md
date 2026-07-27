@@ -8,3 +8,15 @@ Today I learned:
 
 Goal:
 Become an AI Engineer.
+
+# English Practice 
+Variable - o'zgaruvchi
+Function - funksiya
+Input - kiritish
+Output - natija
+Data - ma'lumot
+Program - dastur
+Code - kod
+Bug - xato
+Debug - xatoni tuzatish
+Algorithm - algoritm
