@@ -39,7 +39,7 @@ Today I learned:
 3. **age_checker.py**
    - Performed basic mathematical calculations based on user input.]
 4. **smart_calculator.py**
-   - Performed basic mathematical calculations based on suer input. 
+   - Performed basic mathematical calculations based on user input. 
 5. **password_checker.py**
    - Evaluated password strength based on its length.
 6. **invesment_checker.py**
